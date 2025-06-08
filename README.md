@@ -7,6 +7,19 @@
 
 A sophisticated Discord bot that transforms your server into a virtual casino, featuring interactive games, comprehensive economy system, and professional UI design. Built with Java and JDA (Java Discord API) for maximum performance and reliability.
 
+## 📸 Bot in Action
+
+<div align="center">
+
+| Complete Command Guide | Russian Roulette Game | Blackjack Table |
+|:----------------------:|:---------------------:|:---------------:|
+| ![Help All Commands](screenshots/help-all.png) | ![Russian Roulette](screenshots/russian-roulette.png) | ![Blackjack Game](screenshots/blackjack.png) |
+| *Comprehensive help menu with all commands* | *High-stakes Russian Roulette interface* | *Interactive blackjack with real-time gameplay* |
+
+</div>
+
+> 🎯 **See more screenshots and UI examples in the [`screenshots/`](screenshots/) folder**
+
 ## 🌟 Key Features
 
 ### 🎮 Six Complete Casino Games
@@ -80,20 +93,15 @@ A sophisticated Discord bot that transforms your server into a virtual casino, f
 
 3. **Launch Bot**
    
-   **Windows PowerShell:**
-   ```powershell
-   .\start-bot.ps1
-   ```
-   
-   **Windows Command Prompt:**
+   **Windows (Double-click or command line):**
    ```cmd
-   start-bot.bat
+   run.bat
    ```
    
-   **Linux/macOS:**
+   **Manual (All platforms):**
    ```bash
-   chmod +x start-bot.sh
-   ./start-bot.sh
+   mvn clean package
+   java -jar target/syndicate-den-bot.jar
    ```
 
 4. **Verify Installation**
