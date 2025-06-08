@@ -4,7 +4,7 @@ This folder contains screenshots showcasing The Syndicate's Den Discord bot in a
 
 ## Bot Features Demonstrated
 
-### 1. Complete Command Guide (`help-all.png`)
+### 1. Complete Command Guide (`help.png`)
 Shows the comprehensive help menu with all available commands organized by category:
 - 🏠 Main Navigation
 - 🎰 Casino Games (6 total games)
