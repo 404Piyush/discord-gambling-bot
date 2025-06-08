@@ -11,7 +11,6 @@ target/
 
 # IDE files
 .idea/
-.vscode/
 *.iml
 *.ipr
 *.iws
@@ -42,3 +41,7 @@ mvnw.cmd
 
 # Config files with sensitive data
 config.properties 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

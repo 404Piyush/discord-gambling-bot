@@ -13,7 +13,7 @@ A sophisticated Discord bot that transforms your server into a virtual casino, f
 
 | Complete Command Guide | Russian Roulette Game | Blackjack Table |
 |:----------------------:|:---------------------:|:---------------:|
-| ![Help All Commands](screenshots/help-all.png) | ![Russian Roulette](screenshots/russian-roulette.png) | ![Blackjack Game](screenshots/blackjack.png) |
+| ![Help All Commands](screenshots/help.png) | ![Russian Roulette](screenshots/russian-roulette.png) | ![Blackjack Game](screenshots/blackjack.png) |
 | *Comprehensive help menu with all commands* | *High-stakes Russian Roulette interface* | *Interactive blackjack with real-time gameplay* |
 
 </div>
